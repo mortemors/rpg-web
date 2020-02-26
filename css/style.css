@@ -4,13 +4,14 @@
 /* --- Components design --- */
 @import url("components/avatar.css");
 @import url("components/card.css");
-@import url("components/attributes.css");
+@import url("components/character.css");
+@import url("components/header.css");
 
 /* --- Fonts --- */
 body {
   font-family: "Open Sans", "Helvetica", "sans-serif";
   padding-bottom: 200px;
-  background-color: gray;
+  background-color: white;
 }
 h1, h2, h3 {
   font-family: "Montserrat", "sans-serif";
